@@ -11,9 +11,9 @@ $ pip install pandas
 ### 3. Clone repo:
 $ git clone [url]
 
-# Headers and rows created via loop:
+### 4. Headers and rows created via for loop:
 
-```
+```Python
 <thead>
     <tr>
       {% for col in colnames %}
