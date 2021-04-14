@@ -1,3 +1,5 @@
+# Dynamically create HTML table from .csv file.
+
 ### 1. Create virtual environment:
 $ python -m venv venv
 $ . venv/bin/activate
