@@ -1,4 +1,4 @@
-# .csv file --> .html table via flask
+# .csv file --> html table via flask
 
 ### 1. Create virtual environment:
 * $ python -m venv venv
