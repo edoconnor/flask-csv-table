@@ -1,15 +1,15 @@
 # Dynamically create HTML table from .csv file.
 
 ### 1. Create virtual environment:
-$ python -m venv venv
-$ . venv/bin/activate
+* $ python -m venv venv
+* $ . venv/bin/activate
 
 ### 2. Install Flask & Pandas:
-$ pip install Flask
-$ pip install pandas
+* $ pip install Flask
+* $ pip install pandas
 
 ### 3. Clone repo:
-$ git clone [url]
+* $ git clone [url]
 
 ### 4. Headers and rows created via for loop:
 
