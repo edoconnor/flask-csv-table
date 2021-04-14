@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+
+<h1>Nasdaq-100 Largest Gainers [2020]</h1>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      {% for col in colnames %}
+      <th>{{ col }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for record in records %}
+    <tr>
+      {% for col in colnames %}
+      <td>{{ record[col] }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}
