@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![screenshot](https://github.com/edoconnor/flask-csv-table/blob/main/images/screenshot.png)
 
 # .csv file --> html table via flask
 
