@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # .csv file --> html table via flask
 
 ### 1. Create virtual environment:
